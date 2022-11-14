@@ -1,1 +1,1 @@
-web: bin/start-nginx ./start-listmonk.sh
+web: ./start-listmonk.sh
