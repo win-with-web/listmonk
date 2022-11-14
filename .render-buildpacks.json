@@ -1,0 +1,6 @@
+{
+  "buildpacks": [
+    "https://github.com/heroku/heroku-buildpack-apt",
+    "https://github.com/knadh/listmonk-heroku"
+  ]
+}
